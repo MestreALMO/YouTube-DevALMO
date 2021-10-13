@@ -4,7 +4,7 @@
   <h3 align="center">DevALMO YouTube Projects</h3>
 
   <p align="center">
-    The projects for my YouTube channel, 
+    The projects for my YouTube channel, DevALMO.
   </p>
 </p>
 
