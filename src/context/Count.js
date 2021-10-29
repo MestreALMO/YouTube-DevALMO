@@ -1,4 +1,6 @@
-import { createContext, useContext, useState } from "react";
+import { createContext } from "react";
+import { useState } from "react";
+import { useContext } from "react";
 
 const CountContext = createContext();
 
