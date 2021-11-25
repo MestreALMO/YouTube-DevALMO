@@ -1,13 +1,12 @@
-import { Counter } from "./components/counter";
+// import Test00 from "./test00";
+// import Test01 from "./test01";
+// import Test02 from "./test02";
+import Test03 from "./test03";
 
-function App() {
+export default function App() {
   return (
     <>
-      <h1>DevALMO, useReducer tutorial</h1>
-
-      <Counter />
+      <Test03 />
     </>
   );
 }
-
-export default App;
