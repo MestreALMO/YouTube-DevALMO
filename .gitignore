@@ -1,5 +1,6 @@
 tutorial-react-hooks-useeffect/node_modules
 tutorial-react-hooks-usecontext/node_modules
 tutorial-react-hooks-usereducer/node_modules
+tutorial-react-hooks-usememo/node_modules
 tutorial-react-hooks-usecallback/node_modules
 test/node_modules
