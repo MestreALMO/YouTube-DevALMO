@@ -1,15 +1,15 @@
 <br />
 <p align="center">
 
-  <h3 align="center">YouTube DevALMO</h3>
+  <h3 align="center">Tutorial React Hooks - useReducer</h3>
 
   <p align="center">
-    DevALMO, YouTube channel projects
+    Learn the React Hook useReducer!
   </p>
 </p>
 
 ## About
-This is a project created with the objective to contain the projects I do for YouTube, [DevALMO](https://www.youtube.com/channel/UCoxaVAl8-XHPv__s48HMPZA).
+In [this video](https://www.youtube.com/watch?v=OPaagPNDx4c) I teach React Hook useReducer.
 
 
 ## Contact
