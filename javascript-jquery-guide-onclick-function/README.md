@@ -9,7 +9,8 @@
 </p>
 
 ## About
-This is a project created with the objective to contain the projects I do for YouTube, [DevALMO](https://www.youtube.com/channel/UCoxaVAl8-XHPv__s48HMPZA).
+* I'm teaching how to use onclick function in JavaScript and jQuery
+* Here is the link for the video: https://www.youtube.com/watch?v=kf7XKyCcV50
 
 
 ## Contact
