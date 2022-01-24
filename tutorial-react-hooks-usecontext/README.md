@@ -11,6 +11,17 @@
 ## About
 In [this video](https://www.youtube.com/watch?v=mRoSrYHc_YQ) I teach React Hook useContext.
 
+## Prerequisites
+To run in Windows 10 you need to install some tools, like: NodeJS, Chocolatey and more. [here](https://github.com/MestreALMO/React-Requires-To-Run-Windows-) is how to install all of it.
+<br/>
+
+## Running
+Access the root of the project with a terminal, don't forget to run ```yarn``` if it is the first time running the project, then run the code:
+```
+yarn start
+```
+With that the app will be running! 
+<br />You can access it with ```http://localhost:3000/```
 
 ## Contact
 My Name: André Lusegardis Miranda de Oliveira
