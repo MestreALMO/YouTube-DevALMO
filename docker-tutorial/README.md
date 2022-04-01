@@ -31,3 +31,12 @@ docker run -v ${PWD}:/app -v /app/node_modules -p 3001:3000 --rm react-default
 docker-compose up -d --build
 
 docker-compose stop
+
+# Contact
+My Name: André Lusegardis Miranda de Oliveira
+  * lusegardis@gmail.com
+  * [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-lusegardis/detail/recent-activity/shares/)
+  * [GitHub](https://github.com/MestreALMO)
+  * [YouTube](https://www.youtube.com/channel/UCoxaVAl8-XHPv__s48HMPZA)
+  * [LinkedIn](https://twitter.com/Lusegardis)
+  * [CodePen](https://codepen.io/MestreALMO)
