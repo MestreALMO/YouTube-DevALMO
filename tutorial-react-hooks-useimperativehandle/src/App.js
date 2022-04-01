@@ -8,7 +8,7 @@ function App() {
     <>
       <h1>DevALMO, YouTube Channel</h1>
       <Counter ref={ref} />
-      <button onClick={() => ref.current.increment()}>Out Button</button>
+      <button onClick={() => ref.current.increment()}>Outside Button</button>
     </>
   );
 }
