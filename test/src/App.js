@@ -1,25 +1,36 @@
-import { useState, useRef } from "react";
+import { useState } from "react";
 
-export default function App() {
-  const [state, setState] = useState("");
-  let varLet = "";
-  const ref = useRef("");
+function App() {
+  const [inputValue, setInputValue] = useState("");
+  const [inputDisplayed, setInputDisplayed] = useState("Text");
 
-  const data = (e) => {
-    setState(e.target.value);
-    varLet = e.target.value;
-    console.log("let: " + varLet);
-    ref.current = e.target.value;
-    console.log("ref: " + ref.current);
+  const handleInput = (event) => {
+    event.preventDefault();
+    setInputDisplayed(inputValue);
+    document.getElementById("buttonId")?.click();
   };
 
   return (
     <>
-      <h1>DevALMO, YouTube</h1>
-      <input type="text" onChange={(e) => data(e)} />
-      <p>My State is {state}</p>
-      <p>My Let is {varLet}</p>
-      <p>My Ref is {ref.current}</p>
+      <h1>DevALMO YouTube</h1>
+
+      <button id="buttonId" onClick={(e) => alert("clicked")}>
+        Click
+      </button>
+
+      <h2>{inputDisplayed}</h2>
+
+      <form onSubmit={handleInput}>
+        <input
+          type="text"
+          value={inputValue}
+          onChange={(e) => {
+            setInputValue(e.target.value);
+          }}
+        />
+      </form>
     </>
   );
 }
+
+export default App;
