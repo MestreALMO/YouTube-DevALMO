@@ -4,5 +4,6 @@ tutorial-react-hooks-usereducer/node_modules
 tutorial-react-hooks-usememo/node_modules
 tutorial-react-hooks-usecallback/node_modules
 tutorial-react-hooks-useRef/node_modules
+input-react/node_modules
 docker-tutorial/node_modules
 test/node_modules
