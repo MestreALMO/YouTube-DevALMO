@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+  background: #666;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+}
+
+#blue-bar {
+  min-width: 100%;
+  height: 44px;
+  background-color: blue;
+}
+
+.button-alert {
+  margin: 6px;
+  padding: 6px 12px;
+  border-radius: 10px;
+}
