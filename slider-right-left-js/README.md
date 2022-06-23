@@ -9,8 +9,8 @@
 </p>
 
 ## About
-* I'm teaching how to use onclick function in JavaScript and jQuery
-* Here is the link for the video: https://www.youtube.com/watch?v=kf7XKyCcV50
+* I'm teaching how you can make a slider with JavaScript
+* Here is the link for the video: https://www.youtube.com/watch?v=vChlyMwp4ek
 
 
 ## Contact
